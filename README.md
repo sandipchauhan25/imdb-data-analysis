@@ -1,6 +1,6 @@
-# 🎬 IMDB Data Analysis Project
+# 🎬 TMDB Data Analysis Project
 
-This project explores the IMDB dataset to uncover trends and insights about movies, including genre distributions, ratings, release years, and more. It is implemented using Python with libraries such as Pandas, Matplotlib, and Seaborn.
+This project explores the TMDB dataset to uncover trends and insights about movies, including genre distributions, ratings, release years, and more. It is implemented using Python with libraries such as Pandas, Matplotlib, and Seaborn.
 
 ---
 
