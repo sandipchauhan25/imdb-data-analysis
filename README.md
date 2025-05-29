@@ -6,7 +6,7 @@ This project explores the TMDB dataset to uncover trends and insights about movi
 
 ## 📊 Features
 
-- Exploratory Data Analysis (EDA) of the IMDB dataset
+- Exploratory Data Analysis (EDA) of the TMDB dataset
 - Visualization of genre, rating distribution, and time-based trends
 - Correlation analysis between variables (e.g., rating vs votes)
 - Grouping and filtering for deeper pattern discovery
